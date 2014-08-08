@@ -1,5 +1,5 @@
 {
-    "name": "ondrejbrejla/eciovni",
+    "name": "jakubkontra/eciovni",
     "description": "Component for generating invoices using Nette Framework and mPDF library.",
     "keywords": ["invoice", "generator", "nette", "latte", "mpdf"],
     "license": "BSD-3",
@@ -8,6 +8,11 @@
             "name": "Ondřej Brejla",
             "email": "ondrej@brejla.cz",
             "homepage": "http://brejla.cz"
+        },
+        {
+            "name": "Jakub Kontra",
+            "email": "me@jakubkontra.cz",
+            "homepage": "http://jakubkontra.cz"
         }
     ],
     "require": {
